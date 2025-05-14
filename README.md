@@ -45,13 +45,7 @@ The system calculates the optimal routes using real-world driving distances and 
 
 ---
 
-## 📁 Folder Structure
 
-```bash
-├── app.py                  # Main Streamlit app
-├── requirements.txt        # Dependencies
-└── .streamlit/
-    └── secrets.toml        # API key for OpenRouteService
 
 🧠 Use Case
 
