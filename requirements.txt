@@ -1,0 +1,7 @@
+streamlit
+streamlit-folium
+folium
+openrouteservice
+pandas
+numpy
+ortools
